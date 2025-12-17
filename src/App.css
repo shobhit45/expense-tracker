@@ -1,0 +1,5 @@
+/* Minimal custom styles — main UI uses Tailwind via CDN */
+body { font-family: Inter, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; }
+/* Keep small helpers for legacy class names used earlier */
+.form-control { margin-bottom: 10px; }
+.tx-meta { font-size: 12px; color: #777; }
