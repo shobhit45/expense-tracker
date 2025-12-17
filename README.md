@@ -1,6 +1,6 @@
 # Expense Tracker 
 
-This is an enhanced Expense Tracker React app (local-only, uses localStorage). Changes made include:
+This is an Expense Tracker React app (local-only, uses localStorage) :
 
 - Category and date support for transactions
 - Distinct Income / Expense types (amounts entered as positive numbers)
