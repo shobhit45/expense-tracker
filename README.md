@@ -1,4 +1,4 @@
-# Expense Tracker (Enhanced)
+# Expense Tracker 
 
 This is an enhanced Expense Tracker React app (local-only, uses localStorage). Changes made include:
 
